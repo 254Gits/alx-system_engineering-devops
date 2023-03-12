@@ -1,3 +1,2 @@
-0	string SCHOOL this is a school file
-!:mime SCHOOL 
-
+0	string SCHOOL School data
+!:mime school.mgc
